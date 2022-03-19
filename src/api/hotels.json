@@ -1,0 +1,34 @@
+[
+  {
+   "hotelId":1,
+  "hotelName":"King-FadPalace",
+  "imageUrl":"assets/img/hotelKingFadPalace.jpg",
+  "price":500,
+  "rating":3.5,
+  "description":"Belle vue au bord de la mer"
+  },
+  {
+    "hotelId":2,
+    "hotelName":"Terroubi",
+    "imageUrl":"assets/img/terroubiHotel.jpg",
+    "price":300.234,
+    "rating":4,
+    "description":"Belle vue au bord de la mer"
+  },
+  {
+    "hotelId":3,
+    "hotelName":"Yass Hotel",
+    "imageUrl":"assets/img/yassHotel.jpg",
+    "price":150.00,
+    "rating": 5,
+    "description":"Hotel 5 etoiles"
+  },
+  {
+    "hotelId":4,
+    "hotelName":"RadissonBlu",
+    "imageUrl":"assets/img/RadissonBlu.jpg",
+    "price":100.00,
+    "rating":2.5,
+    "description":"Hotel 5 etoiles"
+  }
+]
